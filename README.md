@@ -1,4 +1,6 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQxODIyNTIsIm5iZiI6MTc4NDE4MTk1MiwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE2VDA2MDU1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyMzJmN2Y4YzM0MGQxYzc1MTJhODI2MmMxMTZmMDgzZWY3NTU0OWJmNjlkZTJkZjIwYjhjMmYxNzI3NTZlYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.tH6Am5iOdKZMpTPAm127RQiFCft5VwpsVHnmp8W0tQE" alt="MasterHead" width="100%" />
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="800" alt="Data Analyst Banner" />
+</div>
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
 
