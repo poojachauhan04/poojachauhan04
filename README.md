@@ -1,9 +1,11 @@
-[![MasterHead](https://copilot.microsoft.com/th/id/BCO.90e1b776-9199-40f5-8c77-236d418b5b1f.png)](https://www.linkedin.com/in/pooja-chauhan04)
+[![MasterHead](https://copilot.microsoft.com/th/id/BCO.74fc4227-afaa-4375-b04d-495a433a47a7.png)](https://www.linkedin.com/in/pooja-chauhan04)
 
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
 
-<img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
+</p>
 
 ---
 
@@ -61,27 +63,14 @@
 
 ### 🚀 Featured Projects
 
+#### 🩺 Heart Failure Prediction (Machine Learning)
+- Cleaned & engineered medical data for model training using Python.  
+- Built Decision Tree & Random Forest models achieving **88.9% accuracy**.  
+- Tools: Python, Pandas, Scikit-learn, Seaborn  
 
+#### 💰 Financial Reporting & Analysis (Power BI)
+- Designed interactive Power BI dashboards showing Profit & Loss, KPIs, and time-based trends.  
+- Automated financial reports using DAX & calculated columns.  
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojachauhan9982-wq&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poojachauhan9982-wq&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachauhan9982-wq&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with Me
-📧 Email: [poojachauhan9982@gmail.com](mailto:poojachauhan9982@gmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/pooja-chauhan04](https://www.linkedin.com/in/pooja-chauhan04)
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pooja-chauhan04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pooja-chauhan04" height="30" width="40" /></a>
-<a href="mailto:poojachauhan9982@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="poojachauhan9982@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
----
-
-⭐ *“Transforming data into business insights.”*
+#### 🚴 Bike Sales Dashboard (Excel)
+- Built Excel dashboard
