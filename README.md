@@ -1,5 +1,3 @@
-[![MasterHead](https://your-banner-image-link.com)](https://your-linkedin-profile.com)
-
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
