@@ -1,13 +1,7 @@
+[![MasterHead](https://your-banner-image-link.com)](https://your-linkedin-profile.com)
+
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9..." alt="Data Analyst Animation" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
-</p>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
 ---
 
@@ -82,8 +76,8 @@
 
 ### 📫 Connect with Me
 📧 Email: [poojachauhan9982@gmail.com](mailto:poojachauhan9982@gmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/pooja-chauhan04](https://www.linkedin.com/in/pooja-chauhan04)
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
 
 ---
 
-⭐ *“Transforming data into business insights.”*
+⭐ *“Turning data into insights, and insights into impact.”*
