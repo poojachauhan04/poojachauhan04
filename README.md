@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 <img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
 ---
 
