@@ -1,12 +1,6 @@
-[![MasterHead](https://copilot.microsoft.com/th/id/BCO.74fc4227-afaa-4375-b04d-495a433a47a7.png)](https://www.linkedin.com/in/pooja-chauhan04)
-
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
-
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
-</p>
-
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
+<img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
 ---
 
 ### 💫 About Me
@@ -73,4 +67,15 @@
 - Automated financial reports using DAX & calculated columns.  
 
 #### 🚴 Bike Sales Dashboard (Excel)
-- Built Excel dashboard
+- Built Excel dashboard for sales trends, regional performance, and profit analysis.  
+- Automated monthly reporting using Excel Macros.
+
+---
+
+### 📫 Connect with Me
+📧 Email: [poojachauhan9982@gmail.com](mailto:poojachauhan9982@gmail.com)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
+
+---
+
+⭐ *“Turning data into insights, and insights into impact.”*
