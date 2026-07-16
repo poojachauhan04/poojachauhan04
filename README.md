@@ -1,7 +1,13 @@
-[![MasterHead](https://copilot.microsoft.com/th/id/BCO.90e1b776-9199-40f5-8c77-236d418b5b1f.png)](https://www.linkedin.com/in/pooja-chauhan04)
-
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9..." alt="Data Analyst Animation" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.ca25bbf1-185c-4ad1-9e55-8b227b129ec9.png" alt="Data Analyst Illustration" width="700"/>
+</p>
 
 ---
 
