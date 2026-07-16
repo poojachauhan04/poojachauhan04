@@ -55,8 +55,8 @@
 
 ### 🎓 Education & Certifications
 - **Bachelor of Commerce (2018–2021)**  
-- **Data Analytics with AI — Uncodemy (Oct 2025 – Jul 2026)**  
-- **Data Analyst Internship — Apana Time (Mar 2026 – Jul 2026)**
+- **Data Analytics with AI — From Uncodemy**  
+- **Data Analyst Internship — Apana Time**
 
 ---
 
