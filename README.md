@@ -12,7 +12,7 @@
 - 📊 Analytical and detail-oriented **Data Analyst** specializing in data-driven business solutions using **Python, SQL, and Power BI**.  
 - 💡 Passionate about turning raw data into actionable insights, building dashboards, and automating workflows.  
 - 🔍 Experienced in **data cleaning, and EDA** using Excel and Power BI.  
-- 🎯 “Data tells stories — I help translate them into business impact.”
+- 🎯 Data tells stories — I help translate them into business impact.
 
 ---
 
