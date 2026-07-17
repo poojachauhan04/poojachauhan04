@@ -70,7 +70,7 @@
 🔗 LinkedIn: [www.linkedin.com/in/pooja-chauhan04](https://www.linkedin.com/in/pooja-chauhan04)
 
 ---
-Portfolio: Check out my pinned repositories below! 👇
+**Portfolio**: Check out my pinned repositories below! 👇
 
 ---
 ⭐ *“Transforming data into business insights.”*
