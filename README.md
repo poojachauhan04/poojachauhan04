@@ -61,7 +61,13 @@
 ---
 
 ### 🚀 Featured Projects
+### 🚕 [NYC Yellow Taxi Analysis](https://github.com/poojachauhan04/NYC_Yellow_Taxi_Analysis_Project)
+**Python | PostgreSQL | Power BI**
+Analyzed 4M+ NYC taxi trips to find demand peaks, payment and tip patterns, and data-quality issues. Built a star-schema database, answered 50 business questions in SQL, and designed an 8-page Power BI dashboard.
 
+### 📉 [Customer Churn Analysis](https://github.com/poojachauhan04/Customer_Churn_Analysis_Project)
+**Python | PostgreSQL | Power BI | Excel**
+Analyzed 93K+ subscription customers to find who churns, why they leave, and how much monthly revenue is lost or at risk.
 
 ---
 
